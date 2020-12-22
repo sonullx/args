@@ -19,7 +19,7 @@ target_include_directories(
 target_compile_features(
 	sonullx.args
 	INTERFACE
-	cxx_std_17
+	cxx_std_11
 )
 
 add_executable(sonullx.args.test)
