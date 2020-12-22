@@ -5,6 +5,7 @@
 #ifndef SONULLX_ARGS_H
 #define SONULLX_ARGS_H
 
+#include <functional>
 #include <string>
 #include <type_traits>
 #include <vector>
